@@ -1,6 +1,5 @@
-# 2022I_Recuperacion
+# Examen de Recuperacion 2022
 
-# EXAMEN PARCIAL DE PHYTON
 ## DATOS PERSONALES
 - Carranco, Diego
 - 1004720494
