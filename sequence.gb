@@ -1,0 +1,1879 @@
+LOCUS       OX177011                 340 bp    DNA     linear   PRI 09-JUL-2022
+DEFINITION  Homo sapiens partial 5S rRNA gene.
+ACCESSION   OX177011
+VERSION     OX177011.1
+DBLINK      BioProject: PRJEB20083
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Bower,L., Dev,R., Vijayaraja,S. and Leinonen,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUL-2022) EMBL-EBI, Bod bod development complex
+            boddington, Fffffffcat, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..340
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            <1..>340
+                     /gene="5S rRNA"
+     rRNA            <1..>340
+                     /gene="5S rRNA"
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+       61 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      121 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      181 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      241 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      301 actacgacat actacgacat actacgacat actacgacat
+//
+
+LOCUS       OX177009                 340 bp    DNA     linear   PRI 09-JUL-2022
+DEFINITION  Homo sapiens partial 5S rRNA gene.
+ACCESSION   OX177009
+VERSION     OX177009.1
+DBLINK      BioProject: PRJEB20083
+            BioSample: SAMEA9403245
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Bower,L., Dev,R., Vijayaraja,S. and Leinonen,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUL-2022) EMBL-EBI, Bod bod development complex
+            boddington, Fffffffcat, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..340
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            <1..>340
+                     /gene="5S rRNA"
+     rRNA            <1..>340
+                     /gene="5S rRNA"
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+       61 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      121 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      181 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      241 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      301 actacgacat actacgacat actacgacat actacgacat
+//
+
+LOCUS       OX177008                 340 bp    DNA     linear   PRI 09-JUL-2022
+DEFINITION  Homo sapiens partial 5S rRNA gene.
+ACCESSION   OX177008
+VERSION     OX177008.1
+DBLINK      BioProject: PRJEB20083
+            BioSample: SAMEA9403245
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Bower,L., Dev,R., Vijayaraja,S. and Leinonen,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUL-2022) EMBL-EBI, Bod bod development complex
+            boddington, Fffffffcat, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..340
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            <1..>340
+                     /gene="5S rRNA"
+     rRNA            <1..>340
+                     /gene="5S rRNA"
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+       61 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      121 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      181 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      241 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      301 actacgacat actacgacat actacgacat actacgacat
+//
+
+LOCUS       OX176994                 340 bp    DNA     linear   PRI 09-JUL-2022
+DEFINITION  Homo sapiens partial 5S rRNA gene.
+ACCESSION   OX176994
+VERSION     OX176994.1
+DBLINK      BioProject: PRJEB20083
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Bower,L., Dev,R., Vijayaraja,S. and Leinonen,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUL-2022) EMBL-EBI, Bod bod development complex
+            boddington, Fffffffcat, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..340
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            <1..>340
+                     /gene="5S rRNA"
+     rRNA            <1..>340
+                     /gene="5S rRNA"
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+       61 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      121 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      181 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      241 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      301 actacgacat actacgacat actacgacat actacgacat
+//
+
+LOCUS       OX176992                 340 bp    DNA     linear   PRI 09-JUL-2022
+DEFINITION  Homo sapiens partial 5S rRNA gene.
+ACCESSION   OX176992
+VERSION     OX176992.1
+DBLINK      BioProject: PRJEB20083
+            BioSample: SAMEA9403245
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Bower,L., Dev,R., Vijayaraja,S. and Leinonen,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUL-2022) EMBL-EBI, Bod bod development complex
+            boddington, Fffffffcat, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..340
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            <1..>340
+                     /gene="5S rRNA"
+     rRNA            <1..>340
+                     /gene="5S rRNA"
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+       61 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      121 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      181 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      241 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      301 actacgacat actacgacat actacgacat actacgacat
+//
+
+LOCUS       OX176991                 340 bp    DNA     linear   PRI 09-JUL-2022
+DEFINITION  Homo sapiens partial 5S rRNA gene.
+ACCESSION   OX176991
+VERSION     OX176991.1
+DBLINK      BioProject: PRJEB20083
+            BioSample: SAMEA9403245
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Bower,L., Dev,R., Vijayaraja,S. and Leinonen,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUL-2022) EMBL-EBI, Bod bod development complex
+            boddington, Fffffffcat, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..340
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            <1..>340
+                     /gene="5S rRNA"
+     rRNA            <1..>340
+                     /gene="5S rRNA"
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+       61 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      121 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      181 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      241 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      301 actacgacat actacgacat actacgacat actacgacat
+//
+
+LOCUS       OX176976                 340 bp    DNA     linear   PRI 09-JUL-2022
+DEFINITION  Homo sapiens partial 5S rRNA gene.
+ACCESSION   OX176976
+VERSION     OX176976.1
+DBLINK      BioProject: PRJEB20083
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Bower,L., Dev,R., Vijayaraja,S. and Leinonen,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUN-2022) EMBL-EBI, Bod bod development complex
+            boddington, Fffffffcat, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..340
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            <1..>340
+                     /gene="5S rRNA"
+     rRNA            <1..>340
+                     /gene="5S rRNA"
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+       61 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      121 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      181 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      241 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      301 actacgacat actacgacat actacgacat actacgacat
+//
+
+LOCUS       OX176974                 340 bp    DNA     linear   PRI 09-JUL-2022
+DEFINITION  Homo sapiens partial 5S rRNA gene.
+ACCESSION   OX176974
+VERSION     OX176974.1
+DBLINK      BioProject: PRJEB20083
+            BioSample: SAMEA9403245
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Bower,L., Dev,R., Vijayaraja,S. and Leinonen,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUN-2022) EMBL-EBI, Bod bod development complex
+            boddington, Fffffffcat, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..340
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            <1..>340
+                     /gene="5S rRNA"
+     rRNA            <1..>340
+                     /gene="5S rRNA"
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+       61 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      121 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      181 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      241 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      301 actacgacat actacgacat actacgacat actacgacat
+//
+
+LOCUS       OX176973                 340 bp    DNA     linear   PRI 09-JUL-2022
+DEFINITION  Homo sapiens partial 5S rRNA gene.
+ACCESSION   OX176973
+VERSION     OX176973.1
+DBLINK      BioProject: PRJEB20083
+            BioSample: SAMEA9403245
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Bower,L., Dev,R., Vijayaraja,S. and Leinonen,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUN-2022) EMBL-EBI, Bod bod development complex
+            boddington, Fffffffcat, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..340
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            <1..>340
+                     /gene="5S rRNA"
+     rRNA            <1..>340
+                     /gene="5S rRNA"
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+       61 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      121 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      181 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      241 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      301 actacgacat actacgacat actacgacat actacgacat
+//
+
+LOCUS       OX174968                 340 bp    DNA     linear   PRI 09-JUL-2022
+DEFINITION  Homo sapiens partial 5S rRNA gene.
+ACCESSION   OX174968
+VERSION     OX174968.1
+DBLINK      BioProject: PRJEB20083
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Bower,L., Dev,R., Vijayaraja,S. and Leinonen,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUL-2022) EMBL-EBI, Bod bod development complex
+            boddington, Fffffffcat, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..340
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            <1..>340
+                     /gene="5S rRNA"
+     rRNA            <1..>340
+                     /gene="5S rRNA"
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+       61 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      121 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      181 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      241 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      301 actacgacat actacgacat actacgacat actacgacat
+//
+
+LOCUS       OX174966                 340 bp    DNA     linear   PRI 09-JUL-2022
+DEFINITION  Homo sapiens partial 5S rRNA gene.
+ACCESSION   OX174966
+VERSION     OX174966.1
+DBLINK      BioProject: PRJEB20083
+            BioSample: SAMEA9403245
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Bower,L., Dev,R., Vijayaraja,S. and Leinonen,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUL-2022) EMBL-EBI, Bod bod development complex
+            boddington, Fffffffcat, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..340
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            <1..>340
+                     /gene="5S rRNA"
+     rRNA            <1..>340
+                     /gene="5S rRNA"
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+       61 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      121 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      181 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      241 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      301 actacgacat actacgacat actacgacat actacgacat
+//
+
+LOCUS       OX174965                 340 bp    DNA     linear   PRI 09-JUL-2022
+DEFINITION  Homo sapiens partial 5S rRNA gene.
+ACCESSION   OX174965
+VERSION     OX174965.1
+DBLINK      BioProject: PRJEB20083
+            BioSample: SAMEA9403245
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Bower,L., Dev,R., Vijayaraja,S. and Leinonen,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUL-2022) EMBL-EBI, Bod bod development complex
+            boddington, Fffffffcat, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..340
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+     gene            <1..>340
+                     /gene="5S rRNA"
+     rRNA            <1..>340
+                     /gene="5S rRNA"
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+       61 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      121 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      181 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      241 actacgacat actacgacat actacgacat actacgacat actacgacat actacgacat
+      301 actacgacat actacgacat actacgacat actacgacat
+//
+
+LOCUS       HUMRGAPS                1137 bp    DNA     linear   PRI 24-MAY-1995
+DEFINITION  Homo sapiens 5S rRNA pseudogene.
+ACCESSION   M18680
+VERSION     M18680.1
+KEYWORDS    5S ribosomal RNA; pseudogene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1137)
+  AUTHORS   Arnold,G.J., Kahnt,B., Herrenknecht,K. and Gross,H.J.
+  TITLE     A variant gene and a pseudogene for human 5S RNA are
+            transcriptionally active in vitro
+  JOURNAL   Gene 60 (1), 137-144 (1987)
+   PUBMED   3440518
+COMMENT     Original source text: Homo sapiens (clone: H5S2) (tissue library:
+            of Lawn et al.) DNA.
+            Draft entry and printed copy of sequence for [Gene 60, 134-144
+            (1987)] kindly provided by
+            H.J.Gross, 10-MAR-1988.
+FEATURES             Location/Qualifiers
+     source          1..1137
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="H5S2"
+                     /tissue_lib="of Lawn et al."
+     rRNA            560..638
+                     /product="pseudo 5S ribosomal RNA"
+ORIGIN      Unreported.
+        1 ctgcaggatg ttgaagatgt tccttgggcc cttcatccag caggatgtaa tagagatatg
+       61 ttcctgtggt taggtggtta ggcagtattt ttttatgacc tgaaccccca tgggaatgtt
+      121 ttattctgac caggttctgt gaaatgttgg gagacatctg cggccatact gtaaggctct
+      181 tgtgttggtt cgaaccccga gagcttgcca gcaagaacac aaggcagtgt ggagcaacac
+      241 gctgttttaa tgagcacctg ggtgcagatg gctgagggcc taaaatgcgt cagccccagg
+      301 tgaggacggg gcaggggttt tatagtctcc tgtaaacagg aagtgcccag tctgatgtaa
+      361 ctgctacatg gtacccagat ggcctctctc ttgatcttca ggggtacgtg tctcctggcc
+      421 agctctcttc ctgcttctgc tatcttgctg acacacgctg ctagcacaag tggtcttgtg
+      481 ccttgggact gggcctgaga agggaggagt tattcatccc cccaaacttt caggccccgg
+      541 ggagaatctt tcacatacca ccctgaacac gcccaatctc gtctgatctc agaagctaag
+      601 cagggtctgg cctggttagt acttggatgg gaaatgatca caggaggctt acaaaatggt
+      661 ataggatatc ttgtggttta agcccattct ccgggaagac cttgttggtt ttctccctac
+      721 agaacctgct gtgtacaaaa tggtgtagga tatcttgggg tttaagccca ttccctgaac
+      781 ctgctatgac attaagtgaa cagctcctgg gggtgcatcc caatagggaa gttattgagc
+      841 tcccaatgtt ttcgtgaagc tgctttgtca actgtgaaat aattattgcc cctgccccac
+      901 tcctggggtt gttagagacc cagtgagata ctaaaagtgt gtttaaagca tgtagggtct
+      961 gcaaatgcaa taaagtgtgg tcagaaagcc caactcacgt ggctttgggg gccactggtg
+     1021 aagagacgaa gagactggag gcagcctgtt gtggtcagag cctcctgcta ttgtcaagtt
+     1081 tctcctcagc tgtccccttt accaggagag gcagggtggt caggctttga tcagctg
+//
+
+LOCUS       X71802                   640 bp    DNA     linear   PRI 04-FEB-1994
+DEFINITION  H.sapiens gene for 5S rRNA (640 bp).
+ACCESSION   X71802
+VERSION     X71802.1
+KEYWORDS    5S ribosomal RNA.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Nielsen,J.N., Hallenberg,C., Frederiksen,S., Sorensen,P.D. and
+            Lomholt,B.
+  TITLE     Transcription of human 5S rRNA genes is influenced by an upstream
+            DNA sequence
+  JOURNAL   Nucleic Acids Res. 21 (16), 3631-3636 (1993)
+   PUBMED   8367278
+REFERENCE   2  (bases 1 to 640)
+  AUTHORS   Frederiksen,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-1993) S. Frederiksen, Dept. of Medical
+            Biochemistry and Genetics, The Panum Inst., University of
+            Copenhagen, Blegdamsvej 3, Dk-2200 Copenhagen N, DENMARK
+FEATURES             Location/Qualifiers
+     source          1..640
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1q 42.11-13"
+                     /sub_clone="pHU5S6.1"
+                     /tissue_type="placenta"
+     misc_binding    27..32
+                     /bound_moiety="Sp1"
+     misc_binding    72..76
+                     /bound_moiety="ATF"
+     regulatory      244..255
+                     /regulatory_class="promoter"
+                     /note="D box"
+     rRNA            276..396
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 ggatccaaaa cgctgcctcc gcgacagggc ggaggaccgg agggcgtccc aggatcgtgg
+       61 gccctgggcc ctgacgcctc ggagcactcc ctgctccgag cgggcccgat gtggtggaag
+      121 ctcgggagcg cgggagccgg gggaaggccg cgggccagcg gctcgggggt ccccgatccg
+      181 agccccgcgg ccccgggctg gcggtgtcgg ctgcaatccg gcgggcacgg ccgggccggg
+      241 ctgggctctt ggggcagcca ggcgcctcct tcagcgtcta cggccatacc accctgaacg
+      301 cgcccgatct cgtctgatct cggaagctaa gcagggtcgg gcctggttag tacttggatg
+      361 ggagaccgcc tgggaatacc gggtgctgta ggctttttct ttggctttct ctcttataag
+      421 aaaagggagt gggtgctgtg gctcatgcct ataatcccag cactttggga gcctgaggca
+      481 ggaggattgc ttgagtccag gagttcaaaa cctggacaac ataaagaaac cctgtctcta
+      541 caaaaaatta aaaaattagc caggtgtggt ggtgcatgcc tgtagtcctg gctcaggaga
+      601 ctgaggtggg aagattgctt gagcctgggg ggtcaagtct
+//
+
+LOCUS       X71797                   640 bp    DNA     linear   PRI 04-FEB-1994
+DEFINITION  H.sapiens gene for 5S rRNA (640 bp).
+ACCESSION   X71797
+VERSION     X71797.1
+KEYWORDS    5S ribosomal RNA.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Nielsen,J.N., Hallenberg,C., Frederiksen,S., Sorensen,P.D. and
+            Lomholt,B.
+  TITLE     Transcription of human 5S rRNA genes is influenced by an upstream
+            DNA sequence
+  JOURNAL   Nucleic Acids Res. 21 (16), 3631-3636 (1993)
+   PUBMED   8367278
+REFERENCE   2  (bases 1 to 640)
+  AUTHORS   Frederiksen,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-1993) S. Frederiksen, Dept. of Medical
+            Biochemistry and Genetics, The Panum Inst., University of
+            Copenhagen, Blegdamsvej 3, Dk-2200 Copenhagen N, DENMARK
+FEATURES             Location/Qualifiers
+     source          1..640
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1q 42.11-13"
+                     /sub_clone="pHU5S1"
+                     /tissue_type="placenta"
+     misc_binding    27..32
+                     /bound_moiety="Sp1"
+     misc_binding    72..76
+                     /bound_moiety="ATF"
+     regulatory      244..255
+                     /regulatory_class="promoter"
+                     /note="D box"
+     rRNA            276..396
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 ggatccaaaa cgctgcctcc gcgacagggc ggaggaccgg agggcgtccc aggatcgtgg
+       61 gccctgggcc ctgacgcctc ggagcactcc ctgctccgag cgggcccgat gtggtggaag
+      121 ctcgggagcg cgggagccgg gggaaggccg cgggccagcg gctcgggggt ccccgatccg
+      181 agccccgcgg ccccgggctg gcggtgtcgg ctgcaatccg gcgggcacgg ccgggccggg
+      241 ctgggctctt ggggcagcca ggcgcctcct tcagcgtcta cggccatacc accctgaacg
+      301 cgcccgatct cgtctgatct cggaagctaa gcagggtcgg gcctggttag tacttggatg
+      361 ggagaccgcc tgggaatacc gggtgctgta ggctttttct ttggcttttt gctgtttctt
+      421 tccttttctt ccagacggag tctcgccctg tcgcccaggc tggagtgcgg tggcgccatc
+      481 tcggctcact gcaagctccg cctcccgggt ccacgccatt ccccggcctc agcctcccga
+      541 gtagctgggc ctacaggcgc ccgccaccac gcccggctac tttgttctat ttttcctaga
+      601 gacgggcttt caccctgtta gccgggatgg tctggagctc
+//
+
+LOCUS       X71801                   640 bp    DNA     linear   PRI 04-FEB-1994
+DEFINITION  H.sapiens gene for 5S rRNA (640 bp).
+ACCESSION   X71801
+VERSION     X71801.1
+KEYWORDS    5S ribosomal RNA.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Nielsen,J.N., Hallenberg,C., Frederiksen,S., Sorensen,P.D. and
+            Lomholt,B.
+  TITLE     Transcription of human 5S rRNA genes is influenced by an upstream
+            DNA sequence
+  JOURNAL   Nucleic Acids Res. 21 (16), 3631-3636 (1993)
+   PUBMED   8367278
+REFERENCE   2  (bases 1 to 640)
+  AUTHORS   Frederiksen,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-1993) S. Frederiksen, Dept. of Medical
+            Biochemistry and Genetics, The Panum Inst., University of
+            Copenhagen, Blegdamsvej 3, Dk-2200 Copenhagen N, DENMARK
+FEATURES             Location/Qualifiers
+     source          1..640
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1q 42.11-13"
+                     /sub_clone="pHU5S5.1"
+                     /tissue_type="placenta"
+     misc_binding    27..32
+                     /bound_moiety="Sp1"
+     misc_binding    72..76
+                     /bound_moiety="ATF"
+     misc_binding    233..238
+                     /bound_moiety="Sp1"
+     regulatory      244..255
+                     /regulatory_class="promoter"
+                     /note="D box"
+     rRNA            276..396
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 ggatccaaaa cgctgcctcc gcgacagggc ggaggaccgg agggcgtccc aggatcgtgg
+       61 gccctgggcc ctgacgcctc ggagcactcc ctgctccgag cgggcccgat gtggtggaag
+      121 ctcgggagcg cgggagccgg gggaaggccg cgggccagcg gctcgggggt ccccgatccg
+      181 agccccgcgg ccccgggctg gcggtgtcgg ctgcaatccg gcgggcacgg ccgggcgggg
+      241 ctgggctctt ggggcagcca ggcgcctcct tcagcgtcta cggccatacc accctgaacg
+      301 cgcccgatct cgtctgatct cggaagctaa gcagggtcgg gcctggttag tacttggatg
+      361 ggagaccgcc tgggaatacc gggtgctgta ggctttttct ttggcttttt gctgtttctt
+      421 tccttttctt ccagacggag tctcgccctg tcgcccaggc tggagtgcgg tggcgccatc
+      481 tcggctcact gcaagctccg cctcccgggt ccacgccatt ccccggcctc agcctcccga
+      541 gtagctgggc ctacaggcgc ccgccaccac gcccggctac tttgttctat ttttcctaga
+      601 gacgggcttt caccctgtta gccgggatgg tctggagctc
+//
+
+LOCUS       X71800                   640 bp    DNA     linear   PRI 04-FEB-1994
+DEFINITION  H.sapiens gene for 5S rRNA (640 bp).
+ACCESSION   X71800
+VERSION     X71800.1
+KEYWORDS    5S ribosomal RNA.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Nielsen,J.N., Hallenberg,C., Frederiksen,S., Sorensen,P.D. and
+            Lomholt,B.
+  TITLE     Transcription of human 5S rRNA genes is influenced by an upstream
+            DNA sequence
+  JOURNAL   Nucleic Acids Res. 21 (16), 3631-3636 (1993)
+   PUBMED   8367278
+REFERENCE   2  (bases 1 to 640)
+  AUTHORS   Frederiksen,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-1993) S. Frederiksen, Dept. of Medical
+            Biochemistry and Genetics, The Panum Inst., University of
+            Copenhagen, Blegdamsvej 3, Dk-2200 Copenhagen N, DENMARK
+FEATURES             Location/Qualifiers
+     source          1..640
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1q 42.11-13"
+                     /sub_clone="pHU5S4.1"
+                     /tissue_type="placenta"
+     misc_binding    27..32
+                     /bound_moiety="Sp1"
+     misc_binding    72..76
+                     /bound_moiety="ATF"
+     misc_binding    233..238
+                     /bound_moiety="Sp1"
+     regulatory      244..255
+                     /regulatory_class="promoter"
+                     /note="D box"
+     rRNA            276..396
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 ggatccaaaa cgctgcctcc gcgacagggc ggaggaccgg agggcgtccc aggatcgtgg
+       61 gccctgggcc ctgacgcctc ggagcactcc ctgctccgag cgggcccgat gtggtggaag
+      121 ctcgggagcg cgggagccgg gggaaggccg cgggccagcg gctcgggggt ccccgatccg
+      181 agccccgcgg ccccgggctg gcggtgtcgg ctgcaatccg gcgggcacgg ccgggcgggg
+      241 ctgggctctt ggggcagcca ggcgcctcct tcagcgtcta cggccatacc accctgaacg
+      301 cgcccgatct cgtctgatct cggaagctaa gcagggtcgg gcctggttag tacttggatg
+      361 ggagaccgcc tgggaatacc gggtgctgta ggctttttct ttggcttttt gctgtttctt
+      421 tccttttctt ccagacggag tctcgccctg tcgcccaggc tggagtgcgg tggcgccatc
+      481 tcggctcact gcaagctccg cctcccgggt ccacgccatt ccccggcctc agcctcccga
+      541 gtagctgggc ctacaggcgc ccgccaccac gcccggctac tttgttctat ttttcctaga
+      601 gacgggcttt caccctgtta gccgggatgg tctggagctc
+//
+
+LOCUS       X71799                   638 bp    DNA     linear   PRI 04-FEB-1994
+DEFINITION  H.sapiens gene for 5S rRNA (638 bp).
+ACCESSION   X71799
+VERSION     X71799.1
+KEYWORDS    5S ribosomal RNA.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Nielsen,J.N., Hallenberg,C., Frederiksen,S., Sorensen,P.D. and
+            Lomholt,B.
+  TITLE     Transcription of human 5S rRNA genes is influenced by an upstream
+            DNA sequence
+  JOURNAL   Nucleic Acids Res. 21 (16), 3631-3636 (1993)
+   PUBMED   8367278
+REFERENCE   2  (bases 1 to 638)
+  AUTHORS   Frederiksen,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-1993) S. Frederiksen, Dept. of Medical
+            Biochemistry and Genetics, The Panum Inst., University of
+            Copenhagen, Blegdamsvej 3, Dk-2200 Copenhagen N, DENMARK
+FEATURES             Location/Qualifiers
+     source          1..638
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1q 42.11-13"
+                     /sub_clone="pHUS3.1"
+                     /tissue_type="placenta"
+     misc_binding    27..32
+                     /bound_moiety="Sp1"
+     misc_binding    72..76
+                     /bound_moiety="ATF"
+     misc_binding    231..236
+                     /bound_moiety="Sp1"
+     regulatory      242..253
+                     /regulatory_class="promoter"
+                     /note="D box"
+     rRNA            274..394
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 ggatccaaaa cgctgcctcc gcgacagggc ggaggaccgg agggcgtccc aggatcgtgg
+       61 gccctgggcc ctgacgcctc ggagcactcc ctgctccgag cgggcccgat gtggtggaag
+      121 ctcgggagcg cgggagccgg gggaaggccg cgggcagccg tcgggggtcc ccgatccgag
+      181 ccccgcggcc ccgggctggc ggtgtcggct gcaatccggc gggcacggcc gggcggggct
+      241 gggctcttgg ggcagccagg cgcctccttc agcgtctacg gccataccac cctgaacgcg
+      301 cccgatctcg tctgatctcg gaagctaagc agggtcgggc ctggttagta cttggatggg
+      361 agaccgcctg ggaataccgg gtgctgtagg ctttttcttt ggctttttgc tgtttctttc
+      421 cttttcttcc agacggagtc tcgccctgtc gcccaggctg gagtgcagtg gcgccatctc
+      481 ggctcactgc aaactccgcc tcccgggttc acgccattcc ccggcctcag cctcccgagt
+      541 agctgggcct acaggcgccc gccaccacgc ccggctactt tgttctattt ttcctagaga
+      601 cgggctttca ccctgttagc cgggatggtc tggagctc
+//
+
+LOCUS       X71798                   641 bp    DNA     linear   PRI 04-FEB-1994
+DEFINITION  H.sapiens gene (variant) for 5S rRNA (641 bp).
+ACCESSION   X71798
+VERSION     X71798.1
+KEYWORDS    5S ribosomal RNA.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Nielsen,J.N., Hallenberg,C., Frederiksen,S., Sorensen,P.D. and
+            Lomholt,B.
+  TITLE     Transcription of human 5S rRNA genes is influenced by an upstream
+            DNA sequence
+  JOURNAL   Nucleic Acids Res. 21 (16), 3631-3636 (1993)
+   PUBMED   8367278
+REFERENCE   2  (bases 1 to 641)
+  AUTHORS   Frederiksen,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-1993) S. Frederiksen, Dept. of Medical
+            Biochemistry and Genetics, The Panum Inst., University of
+            Copenhagen, Blegdamsvej 3, Dk-2200 Copenhagen N, DENMARK
+FEATURES             Location/Qualifiers
+     source          1..641
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1q 42.11-13"
+                     /sub_clone="pHU5S2"
+                     /tissue_type="placenta"
+     misc_binding    27..32
+                     /bound_moiety="Sp1"
+     misc_binding    72..76
+                     /bound_moiety="ATF"
+     regulatory      244..255
+                     /regulatory_class="promoter"
+                     /note="D box"
+     rRNA            276..397
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 ggatccaaaa cgctgcctcc gcgacagggc ggaggaccgg agggcgtccc aggatcgtgg
+       61 gccctgggcc ctgacgcctc ggagcactcc ctgctccgag cgggcccgat gtggtggaag
+      121 ctcgggagcg cgggagccgg gggaaggccg cgggccagcg gctcgggggt ccccgatccg
+      181 agccccgcgg ccccgggctg gcggtgtcgg ctgcaatccg gcgggcacgg ccgggccggg
+      241 ctgggctctt ggggcagcca ggcgcctcct tcagcgtcta cggccatacc accctgaacg
+      301 cgcccgatct cgtctgatct cgtgaagcta agcagggtcg ggcctggtta gtacttggat
+      361 gggagaccgc ctgggaatac cgggtgctgt aggctttttc tttggctttt tgctgtttct
+      421 ttccttttct tccagacgga gtctcgccct gtcgcccagg ctggagtgcg gtggcgccat
+      481 ctcggctcac tgcaagctcc gcctcccggg tccacgccat tccccggcct cagcctcccg
+      541 agtagctggg cctacaggcg cccgccacca cgcccggcta ctttgttcta tttttcctag
+      601 agacgggctt tcaccctgtt agccgggatg gtctggagct c
+//
+
+LOCUS       NG_033599                320 bp    DNA     linear   CON 01-JAN-2018
+DEFINITION  Homo sapiens RNA, 5S ribosomal pseudogene 141 (RNA5SP141) on
+            chromosome 3.
+ACCESSION   NG_033599
+VERSION     NG_033599.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 320)
+  AUTHORS   Chiang JJ, Sparrer KMJ, van Gent M, Lassig C, Huang T, Osterrieder
+            N, Hopfner KP and Gack MU.
+  TITLE     Viral unmasking of cellular 5S rRNA pseudogene transcripts induces
+            RIG-I-mediated immunity
+  JOURNAL   Nat. Immunol. 19 (1), 53-62 (2018)
+   PUBMED   29180807
+  REMARK    GeneRIF: Data show that host-derived RNAs, most prominently 5S
+            ribosomal RNA pseudogene 141 (RNA5SP141), bound to RIG-I during
+            infection with herpes simplex virus 1 (HSV-1).
+COMMENT     INFERRED REFSEQ: This record is predicted by genome sequence
+            analysis and is not yet supported by experimental evidence. The
+            reference sequence was derived from AC016931.21.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-320               AC016931.21        141249-141568       c
+FEATURES             Location/Qualifiers
+     source          1..320
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /map="3q22.2"
+     gene            101..220
+                     /gene="RNA5SP141"
+                     /gene_synonym="RN5S141"
+                     /note="RNA, 5S ribosomal pseudogene 141"
+                     /pseudo
+                     /db_xref="GeneID:100873408"
+                     /db_xref="HGNC:HGNC:43041"
+ORIGIN      
+        1 gaataaataa aactgaaata aactcatcat ttaaaagaca aatatcagat tggttaagaa
+       61 taaatccagt tatatactat tggaagaaat acatccaaaa gtctacggcc ataccaccct
+      121 gaacgcgccc gatctcgtct gatctcggaa gctaagcagg gttgggcctg gttagtactt
+      181 ggatgggaga aatacatcca aaaacacgat gactcacatg tattcgaagt aaacagataa
+      241 gaaaaaaaaa caggcaaata ttatttttta aaactgggat aactagacta atgccaaaca
+      301 aaataaatat taagataaaa
+//
+
+LOCUS       X71803                   284 bp    DNA     linear   PRI 04-FEB-1994
+DEFINITION  H.sapiens pseudogene for 5S rRNA (284 bp).
+ACCESSION   X71803
+VERSION     X71803.1
+KEYWORDS    5S ribosomal RNA.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Nielsen,J.N., Hallenberg,C., Frederiksen,S., Sorensen,P.D. and
+            Lomholt,B.
+  TITLE     Transcription of human 5S rRNA genes is influenced by an upstream
+            DNA sequence
+  JOURNAL   Nucleic Acids Res. 21 (16), 3631-3636 (1993)
+   PUBMED   8367278
+REFERENCE   2  (bases 1 to 284)
+  AUTHORS   Frederiksen,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAY-1993) S. Frederiksen, Dept. of Medical
+            Biochemistry and Genetics, The Panum Inst., University of
+            Copenhagen, Blegdamsvej 3, Dk-2200 Copenhagen N, DENMARK
+FEATURES             Location/Qualifiers
+     source          1..284
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1q 42.11-13"
+                     /sub_clone="pHU5S7.3"
+                     /tissue_type="placenta"
+     misc_feature    123..242
+                     /product="5S rRNA pseudogene"
+ORIGIN      
+        1 aagcttttgc cttcccgctc cctccttctt tccccgtttt gttgcgaggc ttcccaactg
+       61 ccccttgact cttctccccc ttttccaccc gcctgcgccc ccgcaggagc ctgggaccgc
+      121 ctgtgggcag ccataccagc ctgaaagcac ccagtctcat ctgatctcgg aagctaagca
+      181 gggtaggcct ggttagtgct tggatgggat tccgaccggg aatgctgggt gatgtaggct
+      241 tttggcttcc cactccctcc ctctttccca cttttgtcgc cggg
+//
+
+LOCUS       HUMRGAORF                401 bp    DNA     linear   PRI 24-MAY-1995
+DEFINITION  Human variant 5S rRNA-like gene and ORF, complete cds.
+ACCESSION   M18679
+VERSION     M18679.1
+KEYWORDS    5S ribosomal RNA.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 401)
+  AUTHORS   Arnold,G.J., Kahnt,B., Herrenknecht,K. and Gross,H.J.
+  TITLE     A variant gene and a pseudogene for human 5S RNA are
+            transcriptionally active in vitro
+  JOURNAL   Gene 60 (1), 137-144 (1987)
+   PUBMED   3440518
+COMMENT     Original source text: Homo sapiens (clone:  H5S1.) (tissue library:
+            of Lawn et al.) DNA.
+            Draft entry and printed copy of sequence for [Gene 60, 134-144
+            (1987)] kindly provided by
+            H.J.Gross, 10-MAR-1988.
+FEATURES             Location/Qualifiers
+     source          1..401
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="H5S1."
+                     /tissue_lib="of Lawn et al."
+     rRNA            77..196
+                     /product="5S ribosomal RNA"
+                     /note="variant"
+     CDS             complement(148..348)
+                     /note="putative"
+                     /codon_start=1
+                     /protein_id="AAA67373.1"
+                     /translation="MLLPGGAAVADLQEEVLGFGWGAVAVKGEQRQGAVGKHGDKKGK
+                     EGENGNQKPMVPAITRRIPSKY"
+ORIGIN      
+        1 cccggggtgg cggtgactgc agtcttactg gcgtggttca tccgggctct tggggcagcc
+       61 aggcgctcgt gctggcgtct aggccacacc accctgaacg cgcccgctcg cctctgatct
+      121 gttgaagcta agcagggtcg ggcctggtta gtacttggat ggaattcgcc tggtaatagc
+      181 gggtaccata ggcttttggt tcccgttctc tccctctttc ccctttttgt ctccgtgctt
+      241 cccaaccgcc ccctgcctct gctccccctt gacagccacc gcgccccagc cgaagcccag
+      301 gacctcctcc tgaagatccg ccactgcagc accgccaggc agcagcatcc cacctcttcc
+      361 gacacgcagc agccccacca ggagcctggc tacaacccgg g
+//
+
+LOCUS       X51545                   638 bp    DNA     linear   PRI 18-MAR-1991
+DEFINITION  Human 5S ribosomal RNA gene.
+ACCESSION   X51545
+VERSION     X51545.1
+KEYWORDS    5S ribosomal RNA; ribosomal RNA.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 638)
+  AUTHORS   Sorensen,P.D., Simonsen,H. and Frederiksen,S.
+  TITLE     Nucleotide sequence of a human 5S rRNA gene
+  JOURNAL   Nucleic Acids Res. 18 (10), 3060 (1990)
+   PUBMED   2349109
+REFERENCE   2  (bases 1 to 638)
+  AUTHORS   Sorensen,P.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-1990) Sorensen P.D., Dept of Biochemistry, Panum
+            Institute University of Copenhagen, Blegdamsvej 3C, DK 2200,
+            Copenhagen N, Denmark
+FEATURES             Location/Qualifiers
+     source          1..638
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="q42-43"
+                     /tissue_type="placenta"
+     rRNA            274..394
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 ggatccaaaa cgctgcctcc gcgacagggc ggaggaccgg agggcgtccc aggatcgtgg
+       61 gccctgggcc ctgacgcctc ggagcactcc ctgctccgag cgggcccgat gtggtggaag
+      121 ctcgggagcg cgggagccgg gggaaggccg cgggcagccg tcgggggtcc ccgatccgag
+      181 ccccgcggcc ccgggctggc ggtgtcggct gcaatccggc gggcacggcc gggcggggct
+      241 gggctcttgg ggcagccagg cgcctccttc agcgtctacg gccataccac cctgaacgcg
+      301 cccgatctcg tctgatctcg gaagctaagc agggtcgggc ctggttagta cttggatggg
+      361 agaccgcctg ggaataccgg gtgctgtagg ctttttcttt ggctttttgc tgtttctttc
+      421 cttttcttcc agacggagtc tcgccctgtc gcccaggctg gagtgcagtg gcgccatctc
+      481 ggctcactgc aaactccgcc tcccgggttc acgccattcc ccggcctcag cctcccgagt
+      541 agctgggcct acaggcgccc gccaccacgc ccggctactt tgttctattt ttcctagaga
+      601 cgggctttca ccctgttagc cgggatggtc tggagctc
+//
+
+LOCUS       NG_054871               2069 bp    DNA     linear   CON 18-APR-2022
+DEFINITION  Homo sapiens RNA, 18S ribosomal pseudogene 3 (RNA18SP3) on
+            chromosome 13.
+ACCESSION   NG_054871
+VERSION     NG_054871.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2069)
+  AUTHORS   Yu S and Lemos B.
+  TITLE     A Portrait of Ribosomal DNA Contacts with Hi-C Reveals 5S and 45S
+            rDNA Anchoring Points in the Folded Human Genome
+  JOURNAL   Genome Biol Evol 8 (11), 3545-3558 (2016)
+   PUBMED   27797956
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2069)
+  AUTHORS   McStay B.
+  TITLE     Nucleolar organizer regions: genomic 'dark matter' requiring
+            illumination
+  JOURNAL   Genes Dev 30 (14), 1598-1610 (2016)
+   PUBMED   27474438
+  REMARK    Review article
+REFERENCE   3  (bases 1 to 2069)
+  AUTHORS   Srivastava R, Srivastava R and Ahn SH.
+  TITLE     The Epigenetic Pathways to Ribosomal DNA Silencing
+  JOURNAL   Microbiol Mol Biol Rev 80 (3), 545-563 (2016)
+   PUBMED   27250769
+  REMARK    Review article
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 2069)
+  AUTHORS   Gibbons JG, Branco AT, Godinho SA, Yu S and Lemos B.
+  TITLE     Concerted copy number variation balances ribosomal DNA dosage in
+            human and mouse genomes
+  JOURNAL   Proc Natl Acad Sci U S A 112 (8), 2485-2490 (2015)
+   PUBMED   25583482
+REFERENCE   5  (bases 1 to 2069)
+  AUTHORS   O'Sullivan,J.M., Pai,D.A., Cridge,A.G., Engelke,D.R. and
+            Ganley,A.R.
+  TITLE     The nucleolus: a raft adrift in the nuclear sea or the keystone in
+            nuclear structure?
+  JOURNAL   Biomol Concepts 4 (3), 277-286 (2013)
+   PUBMED   25436580
+  REMARK    Review article
+REFERENCE   6  (bases 1 to 2069)
+  AUTHORS   Gonzalez IL, Chambers C, Gorski JL, Stambolian D, Schmickel RD and
+            Sylvester JE.
+  TITLE     Sequence and structure correlation of human ribosomal transcribed
+            spacers
+  JOURNAL   J Mol Biol 212 (1), 27-35 (1990)
+   PUBMED   2319598
+REFERENCE   7  (bases 1 to 2069)
+  AUTHORS   Dickson KR, Braaten DC and Schlessinger D.
+  TITLE     Human ribosomal DNA: conserved sequence elements in a 4.3-kb region
+            downstream from the transcription unit
+  JOURNAL   Gene 84 (1), 197-200 (1989)
+   PUBMED   2606359
+REFERENCE   8  (bases 1 to 2069)
+  AUTHORS   Sylvester JE, Petersen R and Schmickel RD.
+  TITLE     Human ribosomal DNA: novel sequence organization in a 4.5-kb region
+            upstream from the promoter
+  JOURNAL   Gene 84 (1), 193-196 (1989)
+   PUBMED   2606358
+REFERENCE   9  (bases 1 to 2069)
+  AUTHORS   Gonzalez IL, Petersen R and Sylvester JE.
+  TITLE     Independent insertion of Alu elements in the human ribosomal spacer
+            and their concerted evolution
+  JOURNAL   Mol Biol Evol 6 (4), 413-423 (1989)
+   PUBMED   2559294
+REFERENCE   10 (bases 1 to 2069)
+  AUTHORS   Gonzalez,I.L. and Schmickel,R.D.
+  TITLE     The human 18S ribosomal RNA gene: evolution and stability
+  JOURNAL   Am J Hum Genet 38 (4), 419-427 (1986)
+   PUBMED   2422931
+COMMENT     INFERRED REFSEQ: This record is predicted by genome sequence
+            analysis and is not yet supported by experimental evidence. The
+            reference sequence was derived from AL592188.60.
+            
+            Summary: 45S ribosomal DNA (rDNA) arrays, or clusters, are present
+            on human chromosomes 13, 14, 15, 21 and 22, designated RNR1 through
+            RNR5, respectively. Each cluster consists of multiple 45S rDNA
+            repeat units that vary in number among individuals and chromosomes,
+            with total diploid copy number estimates ranging from 60 to >800
+            repeat units in a human genome. The 45S rDNA repeat unit encodes a
+            45S rRNA precursor, transcribed by RNA polymerase I, which is
+            processed to form the 18S, 5.8S and 28S rRNAs. This locus
+            represents a likely pseudogene and copy of the 18S ribosomal RNA,
+            part of an incomplete rDNA repeat unit whose chromosomal location
+            is unknown. [provided by RefSeq, May 2017].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-2069              AL592188.60        152950-155018
+FEATURES             Location/Qualifiers
+     source          1..2069
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="13"
+                     /map="13"
+     gene            101..1969
+                     /gene="RNA18SP3"
+                     /note="RNA, 18S ribosomal pseudogene 3"
+                     /pseudo
+                     /db_xref="GeneID:109864277"
+                     /db_xref="HGNC:HGNC:53534"
+ORIGIN      
+        1 tccgtcgtcc tcctcgcttg cggggcgccg ggcccgtcct cgcgaggccc cccggccggc
+       61 cgtccggccg cgtcggggcc tcgccgcgct ctaccttacc tacctggttg atcctgccag
+      121 tagcatatgc ttgtctcaaa gattaagcca tgcatgtctg agtacgcacg gccggtacag
+      181 tgaaactgcg aatggctcat taaatcagtt atggttcctt tggtcgctcg ctcctctcct
+      241 acttggataa ctgtggtaat tctagagcta atacatgccg acgggcgctg acccccttcg
+      301 cgggggggat gcgtgcattt atcagatcaa aaccaacccg gtcagcccct ctccggcccc
+      361 ggccgggggg cgggcgccgg cggctttggt gactctagat aacctcgggc cgatcgcacg
+      421 ccccccgtgg cggcgacgac ccattcgaac gtctgcccta tcaactttcg atggtagtcg
+      481 ccgtgcctac catggtgacc acgggtgacg gggaatcagg gttcgattcc ggagagggag
+      541 cctgagaaac ggctaccaca tccaaggaag gcagcaggcg cgcaaattac ccactcccga
+      601 cccggggagg tagtgacgaa aaataacaat acaggactct ttcgaggccc tgtaattgga
+      661 atgagtccac tttaaatcct ttaacgagga tccattggag ggcaagtctg gtgccagcag
+      721 ccgcggtaat tccagctcca atagcgtata ttaaagttgc tgcagttaaa aagctcgtag
+      781 ttggatcttg ggagcgggcg ggcggtccgc cgcgaggcga gccaccgccc gtccccgccc
+      841 cttgcctctc ggcgccccct cgatgctctt agctgagtgt cccgcggggc ccgaagcgtt
+      901 tactttgaaa aaattagagt gttcaaagca ggcccgagcc gcctggatac cgcagctagg
+      961 aataatggaa taggaccgcg gttctatttt gttggttttc ggaactgagg ccatgattaa
+     1021 gagggacggc cgggggcatt cgtattgcgc cgctagaggt gaaattcttg gaccggcgca
+     1081 agacggacca gagcgaaagc atttgccaag aatgttttca ttaatcaaga acgaaagtcg
+     1141 gaggttcgaa gacgatcaga taccgtcgta gttccgacca taaacgatgc cgaccggcga
+     1201 tgcggcggcg ttattcccat gacccgccgg gcagcttccg ggaaaccaaa gtctttgggt
+     1261 tccgggggga gtatggttgc aaagctgaaa cttaaaggaa ttgacggaag ggcaccacca
+     1321 ggagtggagc ctgcggctta atttgactca acacgggaaa cctcacccgg cccggacacg
+     1381 gacaggattg acagattgat agctctttct cgattccgtg ggtggtggtg catggccgtt
+     1441 cttagttggt ggagcgattt gtctggttaa ttccgataac gaacgagact ctggcatgct
+     1501 aactagttac gcgacccccg agcggtcggc gtcccccaac ttcttagagg gacaagtggc
+     1561 gttcagccac ccgagattga gcaataacag gtctgtgatg cccttagatg tccggggctg
+     1621 cacgcgcgct acactgactg gctcagcgtg tgcctaccct acgccggcag gcgcgggtaa
+     1681 cccgttgaac cccattcgtg atggggatcg gggattgcaa ttattcccca tgaacgagga
+     1741 attcccagta agtgcgggtc ataagcttgc gttgattaag tccctgccct ttgtacacac
+     1801 cgcccgtcgc tactaccgat tggatggttt agtgaggccc tcggatcggc cccgccgggg
+     1861 tcggcccacg gccctggcgg agcgctgaga agacggtcga acttgactat ctagaggaag
+     1921 taaaagtcgt aacaaggttt ccgtaggtga acctgcggaa ggatcattaa cggagcccgg
+     1981 agggcgaggc ccgcggcggc gccgccgccg ccgcgcgctt ccctccgcac acccaccccc
+     2041 ccaccgcgac gcggcgcgtg cgcgggcgg
+//
+
+LOCUS       NG_054872                357 bp    DNA     linear   CON 26-NOV-2020
+DEFINITION  Homo sapiens RNA, 5.8S ribosomal pseudogene 8 (RNA5-8SP8) on
+            chromosome 22.
+ACCESSION   NG_054872
+VERSION     NG_054872.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 357)
+  AUTHORS   Yu S and Lemos B.
+  TITLE     A Portrait of Ribosomal DNA Contacts with Hi-C Reveals 5S and 45S
+            rDNA Anchoring Points in the Folded Human Genome
+  JOURNAL   Genome Biol Evol 8 (11), 3545-3558 (2016)
+   PUBMED   27797956
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 357)
+  AUTHORS   McStay B.
+  TITLE     Nucleolar organizer regions: genomic 'dark matter' requiring
+            illumination
+  JOURNAL   Genes Dev 30 (14), 1598-1610 (2016)
+   PUBMED   27474438
+  REMARK    Review article
+REFERENCE   3  (bases 1 to 357)
+  AUTHORS   Srivastava R, Srivastava R and Ahn SH.
+  TITLE     The Epigenetic Pathways to Ribosomal DNA Silencing
+  JOURNAL   Microbiol Mol Biol Rev 80 (3), 545-563 (2016)
+   PUBMED   27250769
+  REMARK    Review article
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 357)
+  AUTHORS   Gibbons JG, Branco AT, Godinho SA, Yu S and Lemos B.
+  TITLE     Concerted copy number variation balances ribosomal DNA dosage in
+            human and mouse genomes
+  JOURNAL   Proc Natl Acad Sci U S A 112 (8), 2485-2490 (2015)
+   PUBMED   25583482
+REFERENCE   5  (bases 1 to 357)
+  AUTHORS   O'Sullivan,J.M., Pai,D.A., Cridge,A.G., Engelke,D.R. and
+            Ganley,A.R.
+  TITLE     The nucleolus: a raft adrift in the nuclear sea or the keystone in
+            nuclear structure?
+  JOURNAL   Biomol Concepts 4 (3), 277-286 (2013)
+   PUBMED   25436580
+  REMARK    Review article
+REFERENCE   6  (bases 1 to 357)
+  AUTHORS   Gonzalez IL, Chambers C, Gorski JL, Stambolian D, Schmickel RD and
+            Sylvester JE.
+  TITLE     Sequence and structure correlation of human ribosomal transcribed
+            spacers
+  JOURNAL   J Mol Biol 212 (1), 27-35 (1990)
+   PUBMED   2319598
+REFERENCE   7  (bases 1 to 357)
+  AUTHORS   Dickson KR, Braaten DC and Schlessinger D.
+  TITLE     Human ribosomal DNA: conserved sequence elements in a 4.3-kb region
+            downstream from the transcription unit
+  JOURNAL   Gene 84 (1), 197-200 (1989)
+   PUBMED   2606359
+REFERENCE   8  (bases 1 to 357)
+  AUTHORS   Sylvester JE, Petersen R and Schmickel RD.
+  TITLE     Human ribosomal DNA: novel sequence organization in a 4.5-kb region
+            upstream from the promoter
+  JOURNAL   Gene 84 (1), 193-196 (1989)
+   PUBMED   2606358
+REFERENCE   9  (bases 1 to 357)
+  AUTHORS   Gonzalez IL, Petersen R and Sylvester JE.
+  TITLE     Independent insertion of Alu elements in the human ribosomal spacer
+            and their concerted evolution
+  JOURNAL   Mol Biol Evol 6 (4), 413-423 (1989)
+   PUBMED   2559294
+REFERENCE   10 (bases 1 to 357)
+  AUTHORS   Gonzalez,I.L. and Schmickel,R.D.
+  TITLE     The human 18S ribosomal RNA gene: evolution and stability
+  JOURNAL   Am J Hum Genet 38 (4), 419-427 (1986)
+   PUBMED   2422931
+COMMENT     INFERRED REFSEQ: This record is predicted by genome sequence
+            analysis and is not yet supported by experimental evidence. The
+            reference sequence was derived from AL592188.60.
+            
+            Summary: 45S ribosomal DNA (rDNA) arrays, or clusters, are present
+            on human chromosomes 13, 14, 15, 21 and 22, designated RNR1 through
+            RNR5, respectively. Each cluster consists of multiple 45S rDNA
+            repeat units that vary in number among individuals and chromosomes,
+            with total diploid copy number estimates ranging from 60 to >800
+            repeat units in a human genome. The 45S rDNA repeat unit encodes a
+            45S rRNA precursor, transcribed by RNA polymerase I, which is
+            processed to form the 18S, 5.8S and 28S rRNAs. This locus
+            represents a likely pseudogene and copy of the 5.8S ribosomal RNA,
+            part of an incomplete rDNA repeat unit whose chromosomal location
+            is unknown. [provided by RefSeq, May 2017].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-357               AL592188.60        155896-156252
+FEATURES             Location/Qualifiers
+     source          1..357
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="22"
+                     /map="22"
+     gene            101..257
+                     /gene="RNA5-8SP8"
+                     /note="RNA, 5.8S ribosomal pseudogene 8"
+                     /pseudo
+                     /db_xref="GeneID:109864278"
+                     /db_xref="HGNC:HGNC:53536"
+ORIGIN      
+        1 ccccctctcc tcttgggcgg gggggggggg gacgtgccgc gccaggaagg gcctcctccc
+       61 ggtgcgtcgt cgggagcgcc ctcgccaaat cgacctcgta cgactcttag cggtggatca
+      121 ctcggctcgt gcgtcgatga agaacgcagc tagctgcgag aattaatgtg aattgcagga
+      181 cacattgatc atcgacactt cgaacgcact tgcggccccg ggttcctccc ggggctacgc
+      241 ctgtctgagc gtcgcttgcc gatcaatcgc ccccgggggt gcctccgggc tcctcggggt
+      301 gcgcggctgg gggttccctc gcagggcccg ccgggggccc tccgtccccc taagcgc
+//
+
+LOCUS       NG_054873               2069 bp    DNA     linear   CON 02-JUL-2020
+DEFINITION  Homo sapiens RNA, 18S ribosomal pseudogene 4 (RNA18SP4) on
+            chromosome 22.
+ACCESSION   NG_054873
+VERSION     NG_054873.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2069)
+  AUTHORS   Yu S and Lemos B.
+  TITLE     A Portrait of Ribosomal DNA Contacts with Hi-C Reveals 5S and 45S
+            rDNA Anchoring Points in the Folded Human Genome
+  JOURNAL   Genome Biol Evol 8 (11), 3545-3558 (2016)
+   PUBMED   27797956
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2069)
+  AUTHORS   McStay B.
+  TITLE     Nucleolar organizer regions: genomic 'dark matter' requiring
+            illumination
+  JOURNAL   Genes Dev. 30 (14), 1598-1610 (2016)
+   PUBMED   27474438
+  REMARK    Review article
+REFERENCE   3  (bases 1 to 2069)
+  AUTHORS   Srivastava R, Srivastava R and Ahn SH.
+  TITLE     The Epigenetic Pathways to Ribosomal DNA Silencing
+  JOURNAL   Microbiol. Mol. Biol. Rev. 80 (3), 545-563 (2016)
+   PUBMED   27250769
+  REMARK    Review article
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 2069)
+  AUTHORS   Gibbons JG, Branco AT, Godinho SA, Yu S and Lemos B.
+  TITLE     Concerted copy number variation balances ribosomal DNA dosage in
+            human and mouse genomes
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 112 (8), 2485-2490 (2015)
+   PUBMED   25583482
+REFERENCE   5  (bases 1 to 2069)
+  AUTHORS   O'Sullivan,J.M., Pai,D.A., Cridge,A.G., Engelke,D.R. and
+            Ganley,A.R.
+  TITLE     The nucleolus: a raft adrift in the nuclear sea or the keystone in
+            nuclear structure?
+  JOURNAL   Biomol Concepts 4 (3), 277-286 (2013)
+   PUBMED   25436580
+  REMARK    Review article
+REFERENCE   6  (bases 1 to 2069)
+  AUTHORS   Gonzalez IL, Chambers C, Gorski JL, Stambolian D, Schmickel RD and
+            Sylvester JE.
+  TITLE     Sequence and structure correlation of human ribosomal transcribed
+            spacers
+  JOURNAL   J. Mol. Biol. 212 (1), 27-35 (1990)
+   PUBMED   2319598
+REFERENCE   7  (bases 1 to 2069)
+  AUTHORS   Dickson KR, Braaten DC and Schlessinger D.
+  TITLE     Human ribosomal DNA: conserved sequence elements in a 4.3-kb region
+            downstream from the transcription unit
+  JOURNAL   Gene 84 (1), 197-200 (1989)
+   PUBMED   2606359
+REFERENCE   8  (bases 1 to 2069)
+  AUTHORS   Sylvester JE, Petersen R and Schmickel RD.
+  TITLE     Human ribosomal DNA: novel sequence organization in a 4.5-kb region
+            upstream from the promoter
+  JOURNAL   Gene 84 (1), 193-196 (1989)
+   PUBMED   2606358
+REFERENCE   9  (bases 1 to 2069)
+  AUTHORS   Gonzalez IL, Petersen R and Sylvester JE.
+  TITLE     Independent insertion of Alu elements in the human ribosomal spacer
+            and their concerted evolution
+  JOURNAL   Mol. Biol. Evol. 6 (4), 413-423 (1989)
+   PUBMED   2559294
+REFERENCE   10 (bases 1 to 2069)
+  AUTHORS   Gonzalez,I.L. and Schmickel,R.D.
+  TITLE     The human 18S ribosomal RNA gene: evolution and stability
+  JOURNAL   Am. J. Hum. Genet. 38 (4), 419-427 (1986)
+   PUBMED   2422931
+COMMENT     INFERRED REFSEQ: This record is predicted by genome sequence
+            analysis and is not yet supported by experimental evidence. The
+            reference sequence was derived from AL353644.34.
+            
+            Summary: 45S ribosomal DNA (rDNA) arrays, or clusters, are present
+            on human chromosomes 13, 14, 15, 21 and 22, designated RNR1 through
+            RNR5, respectively. Each cluster consists of multiple 45S rDNA
+            repeat units that vary in number among individuals and chromosomes,
+            with total diploid copy number estimates ranging from 60 to >800
+            repeat units in a human genome. The 45S rDNA repeat unit encodes a
+            45S rRNA precursor, transcribed by RNA polymerase I, which is
+            processed to form the 18S, 5.8S and 28S rRNAs. This locus
+            represents a likely pseudogene and copy of the 18S ribosomal RNA,
+            part of an incomplete rDNA repeat unit on chromosome 22. [provided
+            by RefSeq, May 2017].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-2069              AL353644.34        170912-172980
+FEATURES             Location/Qualifiers
+     source          1..2069
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="22"
+                     /map="22"
+     gene            101..1969
+                     /gene="RNA18SP4"
+                     /note="RNA, 18S ribosomal pseudogene 4"
+                     /pseudo
+                     /db_xref="GeneID:109864275"
+                     /db_xref="HGNC:HGNC:53535"
+ORIGIN      
+        1 gtccgtcgtc ctcctcgctt gcggggcgcc gggcccgtcc tcgcgaggcc ccccggccgg
+       61 ccgtccggcc gcgtcggggc ctcgccgcgc tctacctacc tacctggttg atcctgccag
+      121 tagcatatgc ttgtctcaaa gattaagcca tgcatgtcta agtacgcacg gccggtacag
+      181 tgaaactgcg aatggctcat taaatcagtt atggttcctt tggtcgctcg ctcctctcct
+      241 acttggataa ctgtggtaat tctagagcta atacatgccg acgggcgctg acccccttcg
+      301 cgggggggat gcgtgcattt atcagatcaa aaccaacccg gtcagcccct ctccggcccc
+      361 ggccgggggg cgggcgccgg cggctttggt gactctagat aacctcgggc cgatcgcacg
+      421 ccccccgtgg cggcgacgac ccattcgaac gtctgcccta tcaactttcg atggtagtcg
+      481 ccgtgcctac catggtgacc acgggtgacg gggaatcagg gttcgattcc ggagagggag
+      541 cctgagaaac ggctaccaca tccaaggaag gcagcaggcg cgcaaattac ccactcccga
+      601 cccggggagg tagtgacgaa aaataacaat acaggactct ttcgaggccc tgtaattgga
+      661 atgagtccac tttaaatcct ttaacgagga tccattggag ggcaagtctg gtgccagcag
+      721 ccgcggtaat tccagctcca atagcgtata ttaaagttgc tgcagttaaa aagctcgtag
+      781 ttggatcttg ggagcgggcg ggcggtccgc cgcgaggcga gccaccgccc gtccccgccc
+      841 cttgcctctc ggcgccccct cgatgctctt agctgagtgt cccgcggggc ccgaagcgtt
+      901 tactttgaaa aaattagagt gttcaaagca ggcccgagcc gcctggatac cgcagctagg
+      961 aataatggaa taggaccgcg gttctatttt gttggttttc ggaactgagg ccatgattaa
+     1021 gagggacggc cgggggcatt cgtattgcgc cgctagaggt gaaattcttg gaccggcgca
+     1081 agacggacca gagcgaaagc atttgccaag aatgttttca ttaatcaaga acgaaagtcg
+     1141 gaggttcgaa gacgatcaga taccgtcgta gttccgacca taaacgatgc cgaccggcga
+     1201 tgcggcggcg ttattcccat gacccgccgg gcagcttccg ggaaaccaaa gtctttgggt
+     1261 tccgggggga gtatggttgc aaagctgaaa cttaaaggaa ttgacggaag ggcaccacca
+     1321 ggagtggagc ctgcggctta atttgactca acacgggaaa cctcacccgg cccggacacg
+     1381 gacaggattg acagattgat agctctttct cgattccgtg ggtggtggtg catggccgtt
+     1441 cttagttggt ggagcgattt gtctggttaa ttccgataac gaacgagact ctggcatgct
+     1501 aactagttac gcgacccccg agcggtcggc gtcccccaac ttcttagagg gacaagtggc
+     1561 gttcagccac ccgagattga gcaataacag gtctgtgatg cccttagatg tccggggctg
+     1621 cacgcgcgct acactgactg gctcagcgtg tgcctaccct acgccggcag gcgcgggtaa
+     1681 cccgttgaac cccattcgtg atggggatcg gggattgcaa ttattcccca tgaacgagga
+     1741 attcccagta agtgcgggtc ataagcttgc gttgattaag tccctgccct ttgtacacac
+     1801 cgcccgtcgc tactaccgat tggatggttt agtgaggccc tcggatcggc cccgccgggg
+     1861 tcggcccacg gccctggcgg agcgctgaga agacggtcga acttgactat ctagaggaag
+     1921 taaaagtcgt aacaaggttt ccgtaggtga acctgcggaa ggatcattaa cggagcccgg
+     1981 agggcgaggc ccgcggcggc gccgccgccg ccgcgcgctt ccctccgcac acccgccccc
+     2041 ccaccgcgac gcggcgcgtg cgcgggcgg
+//
+
+LOCUS       NG_054874                356 bp    DNA     linear   CON 02-JUL-2020
+DEFINITION  Homo sapiens RNA, 5.8S ribosomal pseudogene 9 (RNA5-8SP9) on
+            chromosome 22.
+ACCESSION   NG_054874
+VERSION     NG_054874.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 356)
+  AUTHORS   Yu S and Lemos B.
+  TITLE     A Portrait of Ribosomal DNA Contacts with Hi-C Reveals 5S and 45S
+            rDNA Anchoring Points in the Folded Human Genome
+  JOURNAL   Genome Biol Evol 8 (11), 3545-3558 (2016)
+   PUBMED   27797956
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 356)
+  AUTHORS   McStay B.
+  TITLE     Nucleolar organizer regions: genomic 'dark matter' requiring
+            illumination
+  JOURNAL   Genes Dev. 30 (14), 1598-1610 (2016)
+   PUBMED   27474438
+  REMARK    Review article
+REFERENCE   3  (bases 1 to 356)
+  AUTHORS   Srivastava R, Srivastava R and Ahn SH.
+  TITLE     The Epigenetic Pathways to Ribosomal DNA Silencing
+  JOURNAL   Microbiol. Mol. Biol. Rev. 80 (3), 545-563 (2016)
+   PUBMED   27250769
+  REMARK    Review article
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 356)
+  AUTHORS   Gibbons JG, Branco AT, Godinho SA, Yu S and Lemos B.
+  TITLE     Concerted copy number variation balances ribosomal DNA dosage in
+            human and mouse genomes
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 112 (8), 2485-2490 (2015)
+   PUBMED   25583482
+REFERENCE   5  (bases 1 to 356)
+  AUTHORS   O'Sullivan,J.M., Pai,D.A., Cridge,A.G., Engelke,D.R. and
+            Ganley,A.R.
+  TITLE     The nucleolus: a raft adrift in the nuclear sea or the keystone in
+            nuclear structure?
+  JOURNAL   Biomol Concepts 4 (3), 277-286 (2013)
+   PUBMED   25436580
+  REMARK    Review article
+REFERENCE   6  (bases 1 to 356)
+  AUTHORS   Gonzalez IL, Chambers C, Gorski JL, Stambolian D, Schmickel RD and
+            Sylvester JE.
+  TITLE     Sequence and structure correlation of human ribosomal transcribed
+            spacers
+  JOURNAL   J. Mol. Biol. 212 (1), 27-35 (1990)
+   PUBMED   2319598
+REFERENCE   7  (bases 1 to 356)
+  AUTHORS   Dickson KR, Braaten DC and Schlessinger D.
+  TITLE     Human ribosomal DNA: conserved sequence elements in a 4.3-kb region
+            downstream from the transcription unit
+  JOURNAL   Gene 84 (1), 197-200 (1989)
+   PUBMED   2606359
+REFERENCE   8  (bases 1 to 356)
+  AUTHORS   Sylvester JE, Petersen R and Schmickel RD.
+  TITLE     Human ribosomal DNA: novel sequence organization in a 4.5-kb region
+            upstream from the promoter
+  JOURNAL   Gene 84 (1), 193-196 (1989)
+   PUBMED   2606358
+REFERENCE   9  (bases 1 to 356)
+  AUTHORS   Gonzalez IL, Petersen R and Sylvester JE.
+  TITLE     Independent insertion of Alu elements in the human ribosomal spacer
+            and their concerted evolution
+  JOURNAL   Mol. Biol. Evol. 6 (4), 413-423 (1989)
+   PUBMED   2559294
+REFERENCE   10 (bases 1 to 356)
+  AUTHORS   Gonzalez,I.L. and Schmickel,R.D.
+  TITLE     The human 18S ribosomal RNA gene: evolution and stability
+  JOURNAL   Am. J. Hum. Genet. 38 (4), 419-427 (1986)
+   PUBMED   2422931
+COMMENT     INFERRED REFSEQ: This record is predicted by genome sequence
+            analysis and is not yet supported by experimental evidence. The
+            reference sequence was derived from AL353644.34.
+            
+            Summary: 45S ribosomal DNA (rDNA) arrays, or clusters, are present
+            on human chromosomes 13, 14, 15, 21 and 22, designated RNR1 through
+            RNR5, respectively. Each cluster consists of multiple 45S rDNA
+            repeat units that vary in number among individuals and chromosomes,
+            with total diploid copy number estimates ranging from 60 to >800
+            repeat units in a human genome. The 45S rDNA repeat unit encodes a
+            45S rRNA precursor, transcribed by RNA polymerase I, which is
+            processed to form the 18S, 5.8S and 28S rRNAs. This locus
+            represents a likely pseudogene and copy of the 5.8S ribosomal RNA,
+            part of an incomplete rDNA repeat unit on chromosome 22. [provided
+            by RefSeq, May 2017].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-356               AL353644.34        173856-174211
+FEATURES             Location/Qualifiers
+     source          1..356
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="22"
+                     /map="22"
+     gene            101..256
+                     /gene="RNA5-8SP9"
+                     /note="RNA, 5.8S ribosomal pseudogene 9"
+                     /pseudo
+                     /db_xref="GeneID:109864276"
+                     /db_xref="HGNC:HGNC:53537"
+ORIGIN      
+        1 cccctctcct cttgggcggg gggggggggg acgtgccgcg ccaggaaggg cctcctcccg
+       61 gtgcgtcgtc gggagcgccc tcgccaaatc gacctcgtac gactcttagc ggtggatcac
+      121 tcggctcgtg cgtcgatgaa gaacgcagct agctgcgaga attaatgtga attgcaggac
+      181 acattgatca tcgacacttc gaacgcactt gcggccccgg gttcctcccg gggctacgcc
+      241 tgtctgagcg tcgcttgccg atcaatcgcc cccgggggtg cctccgggct cctcggggtg
+      301 cgcggctggg ggttccctcg cagggcccgc cgggggccct ccgtccccct aagcgc
+//
+
+LOCUS       NG_054875               2063 bp    DNA     linear   CON 04-JUN-2017
+DEFINITION  Homo sapiens RNA, 18S ribosomal pseudogene 5 (RNA18SP5) on
+            chromosome 21.
+ACCESSION   NG_054875
+VERSION     NG_054875.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2063)
+  AUTHORS   Yu S and Lemos B.
+  TITLE     A Portrait of Ribosomal DNA Contacts with Hi-C Reveals 5S and 45S
+            rDNA Anchoring Points in the Folded Human Genome
+  JOURNAL   Genome Biol Evol 8 (11), 3545-3558 (2016)
+   PUBMED   27797956
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2063)
+  AUTHORS   McStay B.
+  TITLE     Nucleolar organizer regions: genomic 'dark matter' requiring
+            illumination
+  JOURNAL   Genes Dev. 30 (14), 1598-1610 (2016)
+   PUBMED   27474438
+  REMARK    Review article
+REFERENCE   3  (bases 1 to 2063)
+  AUTHORS   Srivastava R, Srivastava R and Ahn SH.
+  TITLE     The Epigenetic Pathways to Ribosomal DNA Silencing
+  JOURNAL   Microbiol. Mol. Biol. Rev. 80 (3), 545-563 (2016)
+   PUBMED   27250769
+  REMARK    Review article
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 2063)
+  AUTHORS   Gibbons JG, Branco AT, Godinho SA, Yu S and Lemos B.
+  TITLE     Concerted copy number variation balances ribosomal DNA dosage in
+            human and mouse genomes
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 112 (8), 2485-2490 (2015)
+   PUBMED   25583482
+REFERENCE   5  (bases 1 to 2063)
+  AUTHORS   O'Sullivan,J.M., Pai,D.A., Cridge,A.G., Engelke,D.R. and
+            Ganley,A.R.
+  TITLE     The nucleolus: a raft adrift in the nuclear sea or the keystone in
+            nuclear structure?
+  JOURNAL   Biomol Concepts 4 (3), 277-286 (2013)
+   PUBMED   25436580
+  REMARK    Review article
+REFERENCE   6  (bases 1 to 2063)
+  AUTHORS   Gonzalez IL, Chambers C, Gorski JL, Stambolian D, Schmickel RD and
+            Sylvester JE.
+  TITLE     Sequence and structure correlation of human ribosomal transcribed
+            spacers
+  JOURNAL   J. Mol. Biol. 212 (1), 27-35 (1990)
+   PUBMED   2319598
+REFERENCE   7  (bases 1 to 2063)
+  AUTHORS   Dickson KR, Braaten DC and Schlessinger D.
+  TITLE     Human ribosomal DNA: conserved sequence elements in a 4.3-kb region
+            downstream from the transcription unit
+  JOURNAL   Gene 84 (1), 197-200 (1989)
+   PUBMED   2606359
+REFERENCE   8  (bases 1 to 2063)
+  AUTHORS   Sylvester JE, Petersen R and Schmickel RD.
+  TITLE     Human ribosomal DNA: novel sequence organization in a 4.5-kb region
+            upstream from the promoter
+  JOURNAL   Gene 84 (1), 193-196 (1989)
+   PUBMED   2606358
+REFERENCE   9  (bases 1 to 2063)
+  AUTHORS   Gonzalez IL, Petersen R and Sylvester JE.
+  TITLE     Independent insertion of Alu elements in the human ribosomal spacer
+            and their concerted evolution
+  JOURNAL   Mol. Biol. Evol. 6 (4), 413-423 (1989)
+   PUBMED   2559294
+REFERENCE   10 (bases 1 to 2063)
+  AUTHORS   Gonzalez,I.L. and Schmickel,R.D.
+  TITLE     The human 18S ribosomal RNA gene: evolution and stability
+  JOURNAL   Am. J. Hum. Genet. 38 (4), 419-427 (1986)
+   PUBMED   2422931
+COMMENT     INFERRED REFSEQ: This record is predicted by genome sequence
+            analysis and is not yet supported by experimental evidence. The
+            reference sequence was derived from FP671120.18.
+            
+            Summary: 45S ribosomal DNA (rDNA) arrays, or clusters, are present
+            on human chromosomes 13, 14, 15, 21 and 22, designated RNR1 through
+            RNR5, respectively. Each cluster consists of multiple 45S rDNA
+            repeat units that vary in number among individuals and chromosomes,
+            with total diploid copy number estimates ranging from 60 to >800
+            repeat units in a human genome. The 45S rDNA repeat unit encodes a
+            45S rRNA precursor, transcribed by RNA polymerase I, which is
+            processed to form the 18S, 5.8S and 28S rRNAs. This locus
+            represents a likely pseudogene and copy of the 18S ribosomal RNA,
+            part of an incomplete rDNA repeat unit on chromosome 21. [provided
+            by RefSeq, May 2017].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-2063              FP671120.18        153903-155965
+FEATURES             Location/Qualifiers
+     source          1..2063
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="21"
+                     /map="21p11.2"
+     gene            101..1963
+                     /gene="RNA18SP5"
+                     /note="RNA, 18S ribosomal pseudogene 5"
+                     /pseudo
+                     /db_xref="GeneID:109910383"
+                     /db_xref="HGNC:HGNC:53558"
+ORIGIN      
+        1 tccgtcgtcc tcctcgcttg cggggcgccg ggcccgtcct cgcgaggccc cccggccggc
+       61 cgtccggccg cgtcggggcc tcgccgcgct ctaccttacc tacctggttg atcctgccag
+      121 tagcatatgc ttgtctcaaa gattaagcca tgcatgtctg agtacgcacg gccggtacag
+      181 tgaactgcga atggctcatt aaatcagtta tggttccttt ggtcgctcgc tcctctccta
+      241 cttggataac tgtggtaatt ctagagctaa tacatgccga cgggcgctga cccccttcgc
+      301 gggggggatg cgtgcattta tcagatcaaa accaacccgg tcagcccctc tccggccccg
+      361 gccggggggc gggcgccggc ggctttggtg actctagata acctcgggcc gatcgcacgc
+      421 cccccgtggc ggcgacgacc cattcgaacg tctgccctat caactttcga tggtagtcgc
+      481 cgtgcctacc atggtgacca cgggtgacgg ggaatcaggg ttcgattccg gagagggagc
+      541 ctgagaaacg gctaccacat ccaaggaagg cagcagccga aaagattacc cactcccgac
+      601 ccggggaggt agtgacgaaa aataacaata caggactctt tcaggccctg tattggaatg
+      661 agtccacttt aaatccttta acgaggatcc attggagggc aagtctggtg ccagcagccg
+      721 cggtaattcc agctccaata gcgtatatta aagttgctgc agttaaaaag ctcgtagttg
+      781 gatcttggga gcgggcgggc ggtccgccgc gaggcgagcc accgcccgtc cccgcccctt
+      841 gcctctcggc gccccctcga tgctcttagc tgagtgtccc gcggggcccg aagcgtttac
+      901 tttgaaaaaa ttagagtgtt caaagcaggc ccgagccgcc tggataccgc agctaggaat
+      961 aatggaatag gaccgcggtt ctattttgtt ggttttcgga actgaggcca tgattaagag
+     1021 ggacggccgg gggcattcgt attgcgccgc tagaggtgaa attcttggac cggcgcaaga
+     1081 cggaccagag cgaaagcatt tgccaagaat gttttcatta atcaagaacg aaagtcggag
+     1141 gttcgaagac gatcagatac cgtcgtagtt ccgaccataa acgatgccga ccggcgatgc
+     1201 ggcggcgtta ttcccatgac ccgccgggca gcttccggga aaccaaagtc tttgggttcc
+     1261 ggggggagta tggttgcaaa gctgaaactt aaaggaattg acggaagggc accaccagga
+     1321 gtggagcctg cggcttaatt tgactcaaca cgggaaacct cacccggccc ggacacggac
+     1381 aggattgaca gattgatagc tctttctcga ttccgtgggt ggtggtgcat ggccgttctt
+     1441 agttggtgga gcgatttgtc tggttaattc cgataacgaa cgagactctg gcatgctaac
+     1501 tagttacgcg acccccgagc ggtcggcgtc cccccaactt cttagaggga caagtggcgt
+     1561 tcagccaccc gagattgagc aataacaggt ctgtgatgcc cttagatgtc cggggctgca
+     1621 cgcgcgctac actgactggc tcagcgtgtg cctaccctac gccggcggtg ggggtaaccc
+     1681 gttgaacccc attcgtgatg gggatcgggg attgcaatta ttccccatga acgaggaatt
+     1741 cccagtaagt gcgggtcata agcttgcgtt gattaagtcc ctgccctttg tacacaccgc
+     1801 ccgtcgctac taccgattgg atggtttagt gaggccctcg gatcggcccc gccgggtcgg
+     1861 cccacggcct ggcgaacgct gagaagacgg tcgaacttga ctatctagag gaagtaaaag
+     1921 tcgtaacaag gtttccgtag gtgaacctgc ggaaggatca ttaacggagc ccggaggtgt
+     1981 gcccgcggcg gcgccgccgc cgccgcgcgc ttccctccgc acacccaccc ccccaccgcg
+     2041 acgcggcgcg tgcgcgggcg ggg
+//
+
+LOCUS       NG_054876                357 bp    DNA     linear   CON 04-JUN-2017
+DEFINITION  Homo sapiens RNA, 5.8S ribosomal pseudogene 10 (RNA5-8SP10) on
+            chromosome 21.
+ACCESSION   NG_054876
+VERSION     NG_054876.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 357)
+  AUTHORS   Yu S and Lemos B.
+  TITLE     A Portrait of Ribosomal DNA Contacts with Hi-C Reveals 5S and 45S
+            rDNA Anchoring Points in the Folded Human Genome
+  JOURNAL   Genome Biol Evol 8 (11), 3545-3558 (2016)
+   PUBMED   27797956
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 357)
+  AUTHORS   McStay B.
+  TITLE     Nucleolar organizer regions: genomic 'dark matter' requiring
+            illumination
+  JOURNAL   Genes Dev. 30 (14), 1598-1610 (2016)
+   PUBMED   27474438
+  REMARK    Review article
+REFERENCE   3  (bases 1 to 357)
+  AUTHORS   Srivastava R, Srivastava R and Ahn SH.
+  TITLE     The Epigenetic Pathways to Ribosomal DNA Silencing
+  JOURNAL   Microbiol. Mol. Biol. Rev. 80 (3), 545-563 (2016)
+   PUBMED   27250769
+  REMARK    Review article
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 357)
+  AUTHORS   Gibbons JG, Branco AT, Godinho SA, Yu S and Lemos B.
+  TITLE     Concerted copy number variation balances ribosomal DNA dosage in
+            human and mouse genomes
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 112 (8), 2485-2490 (2015)
+   PUBMED   25583482
+REFERENCE   5  (bases 1 to 357)
+  AUTHORS   O'Sullivan,J.M., Pai,D.A., Cridge,A.G., Engelke,D.R. and
+            Ganley,A.R.
+  TITLE     The nucleolus: a raft adrift in the nuclear sea or the keystone in
+            nuclear structure?
+  JOURNAL   Biomol Concepts 4 (3), 277-286 (2013)
+   PUBMED   25436580
+  REMARK    Review article
+REFERENCE   6  (bases 1 to 357)
+  AUTHORS   Gonzalez IL, Chambers C, Gorski JL, Stambolian D, Schmickel RD and
+            Sylvester JE.
+  TITLE     Sequence and structure correlation of human ribosomal transcribed
+            spacers
+  JOURNAL   J. Mol. Biol. 212 (1), 27-35 (1990)
+   PUBMED   2319598
+REFERENCE   7  (bases 1 to 357)
+  AUTHORS   Dickson KR, Braaten DC and Schlessinger D.
+  TITLE     Human ribosomal DNA: conserved sequence elements in a 4.3-kb region
+            downstream from the transcription unit
+  JOURNAL   Gene 84 (1), 197-200 (1989)
+   PUBMED   2606359
+REFERENCE   8  (bases 1 to 357)
+  AUTHORS   Sylvester JE, Petersen R and Schmickel RD.
+  TITLE     Human ribosomal DNA: novel sequence organization in a 4.5-kb region
+            upstream from the promoter
+  JOURNAL   Gene 84 (1), 193-196 (1989)
+   PUBMED   2606358
+REFERENCE   9  (bases 1 to 357)
+  AUTHORS   Gonzalez IL, Petersen R and Sylvester JE.
+  TITLE     Independent insertion of Alu elements in the human ribosomal spacer
+            and their concerted evolution
+  JOURNAL   Mol. Biol. Evol. 6 (4), 413-423 (1989)
+   PUBMED   2559294
+REFERENCE   10 (bases 1 to 357)
+  AUTHORS   Gonzalez,I.L. and Schmickel,R.D.
+  TITLE     The human 18S ribosomal RNA gene: evolution and stability
+  JOURNAL   Am. J. Hum. Genet. 38 (4), 419-427 (1986)
+   PUBMED   2422931
+COMMENT     INFERRED REFSEQ: This record is predicted by genome sequence
+            analysis and is not yet supported by experimental evidence. The
+            reference sequence was derived from FP671120.18.
+            
+            Summary: 45S ribosomal DNA (rDNA) arrays, or clusters, are present
+            on human chromosomes 13, 14, 15, 21 and 22, designated RNR1 through
+            RNR5, respectively. Each cluster consists of multiple 45S rDNA
+            repeat units that vary in number among individuals and chromosomes,
+            with total diploid copy number estimates ranging from 60 to >800
+            repeat units in a human genome. The 45S rDNA repeat unit encodes a
+            45S rRNA precursor, transcribed by RNA polymerase I, which is
+            processed to form the 18S, 5.8S and 28S rRNAs. This locus
+            represents a likely pseudogene and copy of the 5.8S ribosomal RNA,
+            part of an incomplete rDNA repeat unit on chromosome 21. [provided
+            by RefSeq, May 2017].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-357               FP671120.18        156841-157197
+FEATURES             Location/Qualifiers
+     source          1..357
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="21"
+                     /map="21p11.2"
+     gene            101..257
+                     /gene="RNA5-8SP10"
+                     /note="RNA, 5.8S ribosomal pseudogene 10"
+                     /pseudo
+                     /db_xref="GeneID:109910384"
+                     /db_xref="HGNC:HGNC:53559"
+ORIGIN      
+        1 ccccctctcc tcttgggcgg gggggggggg gacgtgccgc gccaggaagg gcctcctccc
+       61 ggtgcgtcgt cgggagcgcc ctcgccaaat cgacctcgta cgactcttag cggtggatca
+      121 ctcggctcgt gcgtcgatga agaacgcagc tagctgcgag aattaatgtg aattgcagga
+      181 cacattgatc atcgacactt cgaacgcact tgcggccccg ggttcctccc ggggctacgc
+      241 ctgtctgagc gtcgcttgcc gatcaatcgc ccccgggggt gcctccgggc tcctcggggt
+      301 gcgcggctgg gggttccctc gcagggcccg ccgggggccc tccgtccccc taagcgc
+//
+
+LOCUS       X05867                   413 bp    DNA     linear   PRI 18-MAR-1991
+DEFINITION  Human 5S ribosomal RNA pseudogene.
+ACCESSION   X05867 Y00394
+VERSION     X05867.1
+KEYWORDS    5S ribosomal RNA; pseudogene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Doran,J.L., Bingle,W.H. and Roy,K.L.
+  TITLE     The nucleotide sequences of two human 5S rRNA pseudogenes
+  JOURNAL   Nucleic Acids Res. 15 (15), 6297 (1987)
+   PUBMED   3627989
+REFERENCE   2  (bases 1 to 413)
+  AUTHORS   Khan,A.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-AUG-1987) Dr. Arifa S. Khan
+COMMENT     see also x05866 for another 5S rRNA pseudogene.
+FEATURES             Location/Qualifiers
+     source          1..413
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="lambda Ht11"
+     misc_feature    198..314
+                     /note="5S ribosomal RNA pseudogene"
+     misc_feature    248..281
+                     /note="internal transcription control region"
+     regulatory      315..319
+                     /regulatory_class="terminator"
+                     /note="put. RNA Polymerase III terminator"
+ORIGIN      
+        1 gaattctccc tacaggtctc cccagatcaa gccaaggaaa tgggcgccaa gtaaccagag
+       61 actgctggag tcattgccag tggtcccgtg aatcacagcc agcctcaaga cctcaatttc
+      121 ttcacccggc catgtaagca gagcggacaa ctctgagggc gtggctgggc ggggttcttg
+      181 gggcagcccg gcgccactgc cggcatctac gcaccctgaa cgcgcccgat ctggtctcat
+      241 ctcggaagct aagcagggtc gggcctggtt agtacttgga tgggagatcg cctggaaata
+      301 ccgggtgctg taggtttttg gcttcccgct ccctctctct ttcccccttt tgtcgccgcg
+      361 cttttcaacc gccccctaac tctgctcccc cttttactcc gtcgcagccc ggg
+//
+
+LOCUS       X05866                   533 bp    DNA     linear   PRI 18-MAR-1991
+DEFINITION  Human 5S ribosomal RNA pseudogene.
+ACCESSION   X05866 Y00394
+VERSION     X05866.1
+KEYWORDS    5S ribosomal RNA; pseudogene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Doran,J.L., Bingle,W.H. and Roy,K.L.
+  TITLE     The nucleotide sequences of two human 5S rRNA pseudogenes
+  JOURNAL   Nucleic Acids Res. 15 (15), 6297 (1987)
+   PUBMED   3627989
+REFERENCE   2  (bases 1 to 533)
+  AUTHORS   Khan,A.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-AUG-1987) Dr. Arifa S. Khan
+COMMENT     see also x05867 for another 5S rRNA pseudogene.
+FEATURES             Location/Qualifiers
+     source          1..533
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="Lambda Ht10"
+     misc_feature    283..391
+                     /note="5S rRNA pseudogene"
+     regulatory      392..399
+                     /regulatory_class="terminator"
+                     /note="put. RNA polymerase III terminator"
+ORIGIN      
+        1 ctgcagaaga atgtgcgtca tggcccactt tatataaagt tcacaaacgt caaagtgaat
+       61 gacacaccat ggaaggttgc aattgtttgc agcgaaacca tgaagaaagg ccagggaacc
+      121 agactcagca ccgcagacag tgctcgctcc caggacaggg aagggccggg accagtccat
+      181 tcccagaagg ctgcaagcgc ctcggtaact gatggtctgc tctgtgtggg ggctcaccgt
+      241 gcctccctca ggcctaacat gttttattga gactcctttg ctgtccatgg ccaaactacc
+      301 ctgaatgagc ctgatctcgt gaagctaagc agggtcgggc gtggttagta tttggatggg
+      361 agaccgcctg ggaatagcag gtgctgcagg ctttttttta aggggaaaaa aaaaagaaag
+      421 aagactcctt tgcttctgct tgatatctaa tgatgaaaac ttaagaggct gggccaggca
+      481 cagtggctca cgcctataat gccagcactt tgagaggccg aggcgggcag atc
+//
+
