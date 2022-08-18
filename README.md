@@ -18,3 +18,4 @@
 - Python v3.10
 - Biopython v1.79
 - Anaconda3 v1.21.5
+- Mathplotlib
